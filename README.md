@@ -4,11 +4,11 @@
 
 📝 **Personal Website:** [www.aridrummond.com](https://www.aridrummond.com/)
 
-🎨 **Research Website:** [www.thecrablab.co.uk](https://www.thecrablab.co.uk/)
+🦀 **Research Website:** [www.thecrablab.co.uk](https://www.thecrablab.co.uk/)
 
 <img align="right" src="https://github.com/aridrummond/aridrummond/blob/main/P2210109.jpeg" width="300">
 
-### Hi, I'm Ari 👋  
+### Hi, I'm Ari 🌊  
 
 I'm a **marine biologist & sensory ecologist** exploring how animals perceive and navigate their world.  
 I work across morphology, physiology, behaviour, global change ecology and data science – **from tide pools to RStudio**.
@@ -46,7 +46,7 @@ Experimental design • Reproducible analysis • Quarto/Markdown
 - Marine lab & fieldwork documentation for outreach and teaching  
 - Developing reproducible R workflows for biological research
 
-### Education
+### 🎓 Education
 
 - PhD (2026 soon!!; *University of Plymouth*): Biological Sciences - Thesis: Crustacean Sensation: Information acquisition and use in an intertidal hermit crab
 - MRes (2022; *UoP*): Marine Biology - Dissertation: Task-solving and decision-making in *Pagurus bernhardus*
