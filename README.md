@@ -62,6 +62,4 @@ I use macro and intertidal photography to document invertebrate life and capture
 - Instagram (Photography/Personal): **@ari_drummond**  
 - Google Scholar: *([link)](https://scholar.google.com/citations?user=DtOvP4EAAAAJ&hl=en)*
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
