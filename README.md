@@ -6,7 +6,7 @@
 
 🎨 **Research Website:** [www.thecrablab.co.uk](https://www.thecrablab.co.uk/)
 
-<img align="right" src="https://github.com/aridrummond/aridrummond/blob/main/Pbernhardus.png" width="300">
+<img align="right" src="https://github.com/aridrummond/aridrummond/blob/main/P2210109.jpeg" width="300">
 
 ### Hi, I'm Ari 👋  
 
